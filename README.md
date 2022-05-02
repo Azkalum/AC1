@@ -21,3 +21,4 @@
 
 # Frameworks :  
 - NetBeans Apache IDE 13
+- Lucid.app
