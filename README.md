@@ -1,7 +1,7 @@
 
 # AC1 Márcio Funes 
 
-## AC1 Focada em Cadastro de Usuário, Pessoa física, Jurídica, Fornecedor e Cliente em JFrame
+## AC1 Focada em Cadastro de Usuário, Pessoa Física, Jurídica, Fornecedor e Cliente em JFrame
 
 ## Prints : 
 ![Sem títulocc](https://user-images.githubusercontent.com/98130954/166179356-6f60954b-8794-42f7-8060-0b2cfb2f775b.png)
