@@ -10,6 +10,8 @@
 
 ![image](https://user-images.githubusercontent.com/98130954/166179412-61d204b6-5e92-4bf6-a4ba-0db486aaff4b.png)
 
+## Diagrama :
+![Sem título](https://user-images.githubusercontent.com/98130954/166179479-14a5a048-05dd-48d3-b2bd-723515f20420.png)
 
 ## Observações :
 - Finalizado o projeto completo! 
